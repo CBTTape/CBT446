@@ -1,5 +1,5 @@
-2025-04-15 02:33:52.129919 - Received CBT.V508.FILE446.PDS from FILE446.XMI 
-2025-04-15 02:33:52.131043 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/$$$#DATE
-2025-04-15 02:33:52.131373 - Found $$$NOTE.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/$$$NOTE
-2025-04-15 02:33:52.131689 - Found @FILE446.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/@FILE446
-2025-04-15 02:33:52.132052 - Found UNIX0002.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/UNIX0002
+2025-04-15 21:21:42.329284 - Received CBT.V508.FILE446.PDS from FILE446.XMI 
+2025-04-15 21:21:42.330499 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/$$$#DATE
+2025-04-15 21:21:42.330703 - Found $$$NOTE.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/$$$NOTE
+2025-04-15 21:21:42.330758 - Found @FILE446.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/@FILE446
+2025-04-15 21:21:42.330993 - Found UNIX0002.txt (text/plain) in CBT.V508.FILE446.PDS, moved to PDS/UNIX0002
